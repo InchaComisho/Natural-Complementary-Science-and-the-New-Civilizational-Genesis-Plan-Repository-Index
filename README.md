@@ -1,0 +1,2 @@
+# Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index
+了解、「自然補完科学＋新文明」の英語ハブを、GitHub用READMEフォーマットでまとめるね。  text # Natural Complementary Science and the New Civilizational Genesis Plan – Repository Index  This index provides an integrated overview of **Natural Complementary Science** and the **New Civilizational Genesis Plan** – a unified proposal for a sustainable civilization built on natural law, 

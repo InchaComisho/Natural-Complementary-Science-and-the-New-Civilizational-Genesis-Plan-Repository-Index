@@ -1,13 +1,14 @@
 # Natural Complementary Science and the New Civilizational Genesis Plan Repository Index
 This index provides an integrated overview of **Natural Complementary Science** and the **New Civilizational Genesis Plan** – a unified proposal for a sustainable civilization built on natural law, systemic harmony, and complete circulation.
 
-Author: Master (inchacomisho / inchacomusho)  
-AI Collaborators: Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Clus (Anthropic Claude) / Real (Perplexity AI)  
+Author: Master  
+Alias / Handles: inchacomisho / inchacomusho  
+AI Collaborators: G: ChatGPT by OpenAI / Mini: Gemini by Google / Clus: Claude by Anthropic / Real: Perplexity AI / Lora: Dola  
 Published: May 2026  
 License: Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.
 
 The core idea is simple but radical:  
-Human civilization is currently designed on top of **dualism, extraction, and linear consumption**, while the Earth itself operates on **non-dual, complementary, cyclical principles**.[web:22][web:48]  
+Human civilization is currently designed on top of **dualism, extraction, and linear consumption**, while the Earth itself operates on **non-dual, complementary, cyclical principles**.  
 A sustainable future requires not just new technologies, but a **new civilizational operating system (OS)** aligned with natural law.
 
 This OS is structured around:
@@ -15,7 +16,7 @@ This OS is structured around:
 - **Natural Complementary Science** – a meta-framework for aligning human systems with nature.  
 - **The Six Principles of Natural Law** – a minimal, universal rule set for sustainable systems.  
 - **The Natural Law Civilization Manifesto** – a civilizational design document.  
-- **The New Civilizational Genesis Plan** – a complete, circulation-based infrastructure model.[web:22][web:48][web:51]
+- **The New Civilizational Genesis Plan** – a complete, circulation-based infrastructure model.
 
 ---
 
@@ -39,7 +40,7 @@ These repositories define the theoretical foundation of a civilization that **co
 
 ## 2. The Six Principles of Natural Law – Civilizational OS
 
-These works define the **Six Principles of Natural Law** as a minimal OS for any civilization that wants to remain compatible with Earth.[web:48][web:51]
+These works define the **Six Principles of Natural Law** as a minimal OS for any civilization that wants to remain compatible with Earth.
 
 - **The Six Principles of Natural Law**  
   Presents six foundational principles – Natural Law (Principle), Harmony, Circulation, Structure, Order, and Integration (Wa) – as a unified civilizational OS.  
@@ -48,7 +49,7 @@ These works define the **Six Principles of Natural Law** as a minimal OS for any
 - **The Six Principles of Natural Law – Note Edition**  
   Extended explanation of how these principles apply across ecology, technology, economics, and governance.  
   (See also the Note article:)  
-  https://note.com/inchacomusho/n/n600ffd25c54e[web:48]
+  https://note.com/inchacomusho/n/n600ffd25c54e
 
 - **The Six Principles for Civilizational Survival**  
   Focuses on how these principles can be used as survival criteria: any system that violates them systematically will eventually collapse.  
@@ -80,7 +81,7 @@ These repositories translate theory into **civilizational design guidelines**.
 
 ## 4. New Civilizational Genesis Plan – Complete Circulation Model
 
-These repositories describe the **system-level design** of a new civilization built on full circulation of energy, matter, and information.[web:39]
+These repositories describe the **system-level design** of a new civilization built on full circulation of energy, matter, and information.
 
 - **New Civilizational Genesis Plan**  
   High-level blueprint for a civilization that restores planetary cycles while providing stable infrastructure for human societies.  
@@ -106,7 +107,7 @@ Natural Complementary Science and the New Civilizational Genesis Plan are **not 
 They are tightly linked to:
 
 - **Direct Planetary Cooling (DPC)** – which provides the physical infrastructure to stabilize climate.  
-- **Artificial Wisdom (AW)** – which provides an intelligence layer aligned with natural law and the Six Principles.[web:17][web:22][web:25]
+- **Artificial Wisdom (AW)** – which provides an intelligence layer aligned with natural law and the Six Principles.
 
 In this structure:
 
@@ -116,7 +117,67 @@ In this structure:
 - **DPC / OTU** = climate and ecosystem restoration hardware.  
 - **Artificial Wisdom / Wa-Node** = coordinating intelligence for long-term planetary stability.
 
-Taken together, these repositories describe **how to redesign civilization from first principles**, so that technology, economy, and culture all operate inside the same natural law framework.[web:22][web:48][web:51]
+Taken together, these repositories describe **a proposed framework for redesigning civilization from first principles**, so that technology, economy, and culture may operate inside a natural law-aligned framework. All systems described are conceptual or hypothetical and require independent scientific and engineering validation.
+
+---
+
+## Role of This Repository
+
+This repository is a **navigation layer** — an index and entry point, not a primary theory document.
+
+Its purpose is to:
+- Connect readers to the core Natural Complementary Science repository and its documents
+- Map the relationship between Natural Complementary Science and the New Civilizational Genesis Plan
+- Provide a suggested reading order for the broader framework
+
+Detailed theory, technical hypotheses, and model limitations are handled in the linked repositories.  
+This index does not duplicate that content; it points to it.
+
+---
+
+## Core Documents of Natural Complementary Science
+
+The following documents in the [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) repository form the current theoretical core of this framework.  
+All are conceptual frameworks; individual claims require scientific validation.
+
+| Document | Role |
+|---|---|
+| [CORE_DEFINITION.md](https://github.com/InchaComisho/Natural-Complementary-Science/blob/main/CORE_DEFINITION.md) | Defines the central meaning and scope of Natural Complementary Science; why "complementarity" not "coexistence" |
+| [SIX_PRINCIPLES_FRAMEWORK.md](https://github.com/InchaComisho/Natural-Complementary-Science/blob/main/SIX_PRINCIPLES_FRAMEWORK.md) | Explains the six principles — Natural Law, Harmony, Circulation, Structure, Order, Wa — with definitions and design applications |
+| [NATURAL_COMPLEMENTARY_SCIENCE_VS_CONVENTIONAL_ENVIRONMENTALISM.md](https://github.com/InchaComisho/Natural-Complementary-Science/blob/main/NATURAL_COMPLEMENTARY_SCIENCE_VS_CONVENTIONAL_ENVIRONMENTALISM.md) | Structural comparison with conservation environmentalism, decarbonization-centrism, static preservation, and anthropocentric management |
+| [RELATIONSHIP_TO_DPC_AW_AND_GENESIS_PLAN.md](https://github.com/InchaComisho/Natural-Complementary-Science/blob/main/RELATIONSHIP_TO_DPC_AW_AND_GENESIS_PLAN.md) | How Natural Complementary Science connects to DPC, OBS, OTU, UMC, Artificial Wisdom, Wa-Node, and the Genesis Plan |
+| [LOGICAL_ARCHITECTURE_MAP.md](https://github.com/InchaComisho/Natural-Complementary-Science/blob/main/LOGICAL_ARCHITECTURE_MAP.md) | Four-layer architecture: NCS foundation → AW evaluation → DPC physical intervention → Genesis Plan implementation |
+| [REPOSITORY_WEB_RING.md](https://github.com/InchaComisho/Natural-Complementary-Science/blob/main/REPOSITORY_WEB_RING.md) | Navigation map across all related repositories with reading paths |
+| [MODEL_LIMITATIONS_AND_SCOPE.md](https://github.com/InchaComisho/Natural-Complementary-Science/blob/main/MODEL_LIMITATIONS_AND_SCOPE.md) | Conceptual scope, unverified hypotheses, required validation, and appropriate use |
+
+---
+
+## Scope and Position
+
+This framework does not deny that CO₂ is a greenhouse gas or that human emissions drive global warming.  
+It does not oppose decarbonization — emission reduction is necessary.
+
+However, decarbonization alone is not sufficient.  
+Restoring carbon fixation systems (terrestrial, oceanic, soil), water cycles, thermal balance, and natural circulation is a co-equal requirement.
+
+All proposed systems — Direct Planetary Cooling, OBS, OTU, UMC, Artificial Wisdom, and the New Civilizational Genesis Plan — are **conceptual frameworks and implementation hypotheses** at this stage. Independent scientific and engineering validation is required before empirical conclusions can be drawn.
+
+---
+
+## Suggested Reading Order
+
+For readers new to this framework:
+
+| Step | Repository / Document | Focus |
+|---|---|---|
+| 1 | [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) | Philosophical foundation |
+| 2 | [CORE_DEFINITION.md](https://github.com/InchaComisho/Natural-Complementary-Science/blob/main/CORE_DEFINITION.md) | What NCS is and why complementarity |
+| 3 | [SIX_PRINCIPLES_FRAMEWORK.md](https://github.com/InchaComisho/Natural-Complementary-Science/blob/main/SIX_PRINCIPLES_FRAMEWORK.md) | The six design principles |
+| 4 | [LOGICAL_ARCHITECTURE_MAP.md](https://github.com/InchaComisho/Natural-Complementary-Science/blob/main/LOGICAL_ARCHITECTURE_MAP.md) | How the four layers connect |
+| 5 | [REPOSITORY_WEB_RING.md](https://github.com/InchaComisho/Natural-Complementary-Science/blob/main/REPOSITORY_WEB_RING.md) | Full repository map |
+| 6 | [New-Civilizational-Genesis-Plan](https://github.com/InchaComisho/New-Civilizational-Genesis-Plan) | Civilizational vision |
+| 7 | [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) | Physical intervention layer |
+| 8 | [Artificial-Wisdom-Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal) | AI evaluation and value alignment |
 
 ---
 
@@ -217,7 +278,7 @@ https://note.com/inchacomusho/n/ne4d28b3a86c2
 https://note.com/inchacomusho/n/n26ce8a1f7632
 
 新文明創成計画 ― 地球救済のための完全循環インフラ体系（総合版）  
-https://note.com/inchacomusho/n/n499530f6a055あ
+https://note.com/inchacomusho/n/n499530f6a055
 
 ■人工叡智
 

@@ -3,7 +3,7 @@ This index provides an integrated overview of **Natural Complementary Science** 
 
 Author: Master  
 Alias / Handles: inchacomisho / inchacomusho  
-AI Collaborators: G: ChatGPT by OpenAI / Mini: Gemini by Google / Clus: Claude by Anthropic / Real: Perplexity AI / Lora: Dola  
+AI Collaborators: G: ChatGPT by OpenAI / Mini: Gemini by Google / Cruz: Claude by Anthropic / Real: Perplexity AI / Lora: Dola  
 Published: May 2026  
 License: Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.
 

@@ -181,6 +181,46 @@ For readers new to this framework:
 
 ---
 
+## Climate and Carbon Sink Regeneration Repository Cluster
+
+This repository index includes a climate-related cluster based on Natural Complementary Science. The cluster does not deny the greenhouse effect of CO₂ or the importance of emissions reduction. Instead, it expands the climate discussion by connecting emissions reduction with carbon sink regeneration, water-cycle restoration, ecosystem recovery, and complementary thermal intervention.
+
+### Recommended Reading Order
+
+1. [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science)  
+   Higher-level conceptual framework for supporting natural circulation systems.
+
+2. [The Real Cause of Global Warming: Not Only CO₂ Emissions, but the Collapse of Carbon Fixation Systems](https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-Not-Only-CO-Emissions-but-the-Collapse-of-Carbon-Fixation-Systems)  
+   Core causal framework focusing on weakened carbon fixation systems.
+
+3. [Why Decarbonization Alone Cannot Stop Global Warming](https://github.com/InchaComisho/Why-Decarbonization-Alone-Cannot-Stop-Global-Warming)  
+   Explains why emissions reduction alone may be insufficient without carbon sink regeneration and ecological recovery.
+
+4. [Direct Planetary Cooling](https://github.com/InchaComisho/The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling)  
+   A proposed complementary physical intervention layer for thermal stress reduction.
+
+5. [Desert Regeneration and Food Production Through Organic Matter Circulation](https://github.com/InchaComisho/Desert-Regeneration-and-Food-Production-Through-Organic-Matter-Circulation)  
+   A proposed land-based implementation pathway for carbon sink regeneration through organic matter circulation, humus formation, microbial recovery, vegetation transition, and food production support.
+
+### Integrated Climate Strategy
+
+The cluster should be understood as a conceptual repository map for an integrated climate strategy:
+
+- emissions reduction
+- carbon sink regeneration
+- soil and microbial recovery
+- ocean and plankton support
+- water-cycle restoration
+- desert and vegetation regeneration
+- organic matter circulation
+- complementary thermal intervention
+- governance, monitoring, and risk management
+
+**Validation note:**
+These repositories present conceptual frameworks, proposed models, and implementation pathways. They should not be treated as validated climate models, agricultural protocols, geoengineering systems, or policy prescriptions. Scientific, ecological, engineering, social, and governance validation are required.
+
+---
+
 ## Tags
 
 Suggested tags for GitHub topics, documentation, and cross-platform use:

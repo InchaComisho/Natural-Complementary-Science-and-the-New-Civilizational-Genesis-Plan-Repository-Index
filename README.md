@@ -230,6 +230,8 @@ These repositories present conceptual frameworks, proposed models, and implement
 - [Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index](https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index) — Index diagnosing microbial collapse and carbon fixation loss as root causes.
 - [Artificial-Wisdom-and-Wa-Node-Repository-Index](https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index) — Repository index for Artificial Wisdom and Wa-Node frameworks.
 - [Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan](https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan) — Integrates DPC with Artificial Wisdom and civilizational redesign.
+- [Natural-Complementary-Science-Perspective-on-Global-Warming-](https://github.com/InchaComisho/Natural-Complementary-Science-Perspective-on-Global-Warming-) — Climate feedback model from the perspective of Natural Complementary Science.
+- [-Everything-in-Nature-Is-a-Cycle](https://github.com/InchaComisho/-Everything-in-Nature-Is-a-Cycle) — Introductory explanation of natural circulation as the foundation of life.
 
 ---
 

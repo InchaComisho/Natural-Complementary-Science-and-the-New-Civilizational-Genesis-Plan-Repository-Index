@@ -219,6 +219,15 @@ The cluster should be understood as a conceptual repository map for an integrate
 **Validation note:**
 These repositories present conceptual frameworks, proposed models, and implementation pathways. They should not be treated as validated climate models, agricultural protocols, geoengineering systems, or policy prescriptions. Scientific, ecological, engineering, social, and governance validation are required.
 
+
+---
+
+## Master Knowledge Portal
+
+For the full repository map and knowledge-system navigation, see:
+
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+
 ---
 
 ## Related Repositories

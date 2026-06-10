@@ -239,6 +239,9 @@ For the full repository map and knowledge-system navigation, see:
 - [Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index](https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index) — Index diagnosing microbial collapse and carbon fixation loss as root causes.
 - [Artificial-Wisdom-and-Wa-Node-Repository-Index](https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index) — Repository index for Artificial Wisdom and Wa-Node frameworks.
 - [Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan](https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan) — Integrates DPC with Artificial Wisdom and civilizational redesign.
+- [REIMEI-NOP: Natural-Origin Plasma Generator](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator/blob/main/README.md) — Related nature-inspired engineering hypothesis for lightning-like plasma generation and auxiliary energy recovery; an open concept requiring observation and verification, not a proven generator.
+- [NOTE article: 雷の原理を模倣する自然起源プラズマ炉構想](https://note.com/inchacomusho/n/nf62145209118)
+- [Original open concept: REIMEI-NOP 技術設計書兼文明宣言](https://note.com/inchacomusho/n/n79be86605430)
 - [Natural-Complementary-Science-Perspective-on-Global-Warming-](https://github.com/InchaComisho/Natural-Complementary-Science-Perspective-on-Global-Warming-) — Climate feedback model from the perspective of Natural Complementary Science.
 - [-Everything-in-Nature-Is-a-Cycle](https://github.com/InchaComisho/-Everything-in-Nature-Is-a-Cycle) — Introductory explanation of natural circulation as the foundation of life.
 

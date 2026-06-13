@@ -365,6 +365,15 @@ DPC・AW・Wa-Nodeとの接続を示す
 
 ---
 
+## 関連ポータル
+
+- [マスター知識ポータル / Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+- [人工叡智ポータル / Artificial Wisdom Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)
+- [地球直接冷却 統合リポジトリ索引](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index)
+- [温暖化因果構造ポータル](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)
+- [黎明文明：惑星循環文明への移行](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition)
+- [自然法則ベースの持続可能な未来文明マスタープラン](https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan)
+
 ## 著者
 
 **マスター / inchacomusho / InchaComisho**

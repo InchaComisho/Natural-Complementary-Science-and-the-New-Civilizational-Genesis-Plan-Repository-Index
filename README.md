@@ -1,9 +1,11 @@
 # Natural Complementary Science and the New Civilizational Genesis Plan Repository Index
+**Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
+
 This index provides an integrated overview of **Natural Complementary Science** and the **New Civilizational Genesis Plan** – a unified proposal for a sustainable civilization built on natural law, systemic harmony, and complete circulation.
 
-Author: Master  
+**Author:** Master / inchacomusho / InchaComisho
 Alias / Handles: inchacomisho / inchacomusho  
-AI Collaborators: G: ChatGPT by OpenAI / Mini: Gemini by Google / Cruz: Claude by Anthropic / Real: Perplexity AI / Lola: Dola  
+**AI Collaborators:** G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)
 Published: May 2026  
 License: Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.
 
@@ -259,7 +261,7 @@ Suggested tags for GitHub topics, documentation, and cross-platform use:
 `#SystemicDesign` `#PlanetaryInfrastructure`
 
 
-■関連リンク
+## Related Links
 
 ■唯一の温暖化対策
 
@@ -360,3 +362,22 @@ https://note.com/inchacomusho/n/n9187db7b2709
   An upper-level civilization transition portal that organizes the shift from consumption civilization to planetary circulation civilization, integrating Natural Law, Artificial Wisdom, Nature-Complementary Science, Urban-Civilization OS, Natural-Microbial OS, Planetary Heat-Circulation OS, sustainable civilization master plans, and nature-inspired energy architecture.
 
 * [Japanese version: 黎明文明：惑星循環文明への移行](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README_ja.md)
+
+## Related Portals
+
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+- [Artificial Wisdom Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)
+- [Direct Planetary Cooling - Integrated Repository Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index)
+- [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)
+- [REIMEI Civilization - Planetary Circulation Transition](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition)
+- [Natural Law-Based Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan)
+
+## Related Project Links
+
+- [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling)
+- [Global Planetary Cooling Ecosystem Regeneration System](https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System)
+- [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)
+- [Distributed Renewable Infrastructure vs. Fusion Monocentrism](https://github.com/InchaComisho/Distributed-Renewable-Infrastructure-vs.-Fusion-Monocentrism)
+- [Natural Law-Based Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan)
+- [REIMEI Civilization - Planetary Circulation Transition](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition)
+

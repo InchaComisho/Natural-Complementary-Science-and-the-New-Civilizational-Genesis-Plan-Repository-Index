@@ -331,6 +331,11 @@ DPC・AW・Wa-Nodeとの接続を示す
 
 ---
 
+## 関連コンピューティング構想
+
+- [Abacus Decimal Computing Paradigm](https://github.com/InchaComisho/Abacus-Decimal-Computing-Paradigm)
+  5ビットそろばん型10進セルを基盤として、電子コンピュータ、光コンピュータ、量子互換フォトニック計算を接続するコンピューティング・パラダイム。
+
 ## 関連NOTE
 
 - 自然補完科学  

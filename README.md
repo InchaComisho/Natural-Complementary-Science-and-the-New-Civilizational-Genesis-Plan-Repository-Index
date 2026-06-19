@@ -261,6 +261,11 @@ Suggested tags for GitHub topics, documentation, and cross-platform use:
 `#SystemicDesign` `#PlanetaryInfrastructure`
 
 
+## Related Computing Architecture
+
+- [Abacus Decimal Computing Paradigm](https://github.com/InchaComisho/Abacus-Decimal-Computing-Paradigm)
+  A five-bit abacus-based decimal computing paradigm designed to connect electronic computers, optical computing, and quantum-compatible photonic architectures.
+
 ## Related Links
 
 ■唯一の温暖化対策
@@ -380,4 +385,3 @@ https://note.com/inchacomusho/n/n9187db7b2709
 - [Distributed Renewable Infrastructure vs. Fusion Monocentrism](https://github.com/InchaComisho/Distributed-Renewable-Infrastructure-vs.-Fusion-Monocentrism)
 - [Natural Law-Based Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan)
 - [REIMEI Civilization - Planetary Circulation Transition](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition)
-

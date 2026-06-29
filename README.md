@@ -385,3 +385,12 @@ https://note.com/inchacomusho/n/n9187db7b2709
 - [Distributed Renewable Infrastructure vs. Fusion Monocentrism](https://github.com/InchaComisho/Distributed-Renewable-Infrastructure-vs.-Fusion-Monocentrism)
 - [Natural Law-Based Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan)
 - [REIMEI Civilization - Planetary Circulation Transition](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition)
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.

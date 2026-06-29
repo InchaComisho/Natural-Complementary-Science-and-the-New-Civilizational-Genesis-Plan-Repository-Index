@@ -303,6 +303,40 @@ DPC・AW・Wa-Nodeとの接続を示す
 
 ---
 
+## クーリングクレジット制度インデックス項目
+
+### Cooling Credit Framework / クーリングクレジット制度設計案
+
+- Repository: https://github.com/InchaComisho/Cooling-Credit-Framework
+- Arabic README: https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md
+- アラビア語版: 乾燥地帯・高温地域・水循環型冷却との関係を含め、クーリングクレジット制度設計案をアラビア語圏へ展開するためのREADME。
+- NOTE: https://note.com/inchacomusho/n/n0f541b313ad2
+- 概要: カーボンクレジットでは評価しきれない「実際の熱負荷低減」「水循環回復」「都市冷却」「土壌保水」「植生蒸散」「海洋循環回復」を測定し、冷却貢献として制度化するためのフレームワーク。
+- 関連領域: 地球直接冷却、水循環都市、自然補完科学、都市冷却、ヒートアイランド対策、土壌再生、植林、海洋循環、文明OS。
+
+---
+
+## 関連するクーリングクレジット制度
+
+- [Cooling Credit Framework / クーリングクレジット制度設計案](https://github.com/InchaComisho/Cooling-Credit-Framework)
+  地球直接冷却、水循環再生、都市冷却、土壌保水、植生蒸散、海洋循環などの冷却効果を評価し、経済的インセンティブへ接続する制度設計案。
+
+注記: 本フレームワークにおけるクーリングクレジットは、太陽光遮蔽クレジットではない。太陽光遮蔽は将来入ってくる熱の一部を抑える行為であり、クーリングクレジットは既存の熱負荷低減と自然冷却能力の回復を測定・評価する制度である。
+
+- [クーリングクレジット実行シミュレーション](https://github.com/InchaComisho/Cooling-Credit-Framework/tree/main/simulations/cooling_credit_impact_simulation)
+  クーリングクレジット導入シナリオ、統合的地球冷却、エルニーニョ緊急対応を比較する概念シミュレーション。
+
+- [地球直接冷却 / Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling)
+  排出削減・炭素固定源回復・水循環回復・生態系再生・自然冷却機能回復による地球直接冷却の基礎フレームワーク。
+
+- [Arabic README / العربية](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md)
+  クーリングクレジット制度設計案のアラビア語版。乾燥地帯・高温地域・水循環型冷却との関係を含む。
+
+- [NOTE：クーリングクレジットという温暖化対策](https://note.com/inchacomusho/n/n0f541b313ad2)
+  カーボンクレジット中心の温暖化対策から、実際に熱を下げるクーリングクレジットへの転換を説明した日本語記事。
+
+---
+
 ## 関連リポジトリ
 
 - Direct Planetary Cooling – Integrated Repository Index  

@@ -3,6 +3,8 @@
 
 This index provides an integrated overview of **Natural Complementary Science** and the **New Civilizational Genesis Plan** – a unified proposal for a sustainable civilization built on natural law, systemic harmony, and complete circulation.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 **Author:** Master / inchacomusho / InchaComisho
 Alias / Handles: inchacomisho / inchacomusho  
 **AI Collaborators:** G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)

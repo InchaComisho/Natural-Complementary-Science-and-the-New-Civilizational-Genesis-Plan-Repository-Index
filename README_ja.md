@@ -4,6 +4,8 @@
 
 この索引は、**自然補完科学（Natural Complementary Science / Natural Complementation Science）** と **新文明創成計画（New Civilizational Genesis Plan）** の全体像を整理する統合ポータルである。
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 本構想は、自然法則、調和、循環、構造、秩序、和を基盤として、持続可能な文明OSを再設計するためのリポジトリ群を接続する。
 
 **著者:** マスター / inchacomusho / InchaComisho  

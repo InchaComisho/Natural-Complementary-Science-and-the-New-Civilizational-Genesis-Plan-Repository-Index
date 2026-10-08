@@ -99,7 +99,6 @@
   https://github.com/InchaComisho/The-Six-Principles-for-Civilizational-Survival
 
 - **NOTE: 六つの理（自然法則・調和・循環・構造・秩序・和）**  
-  https://note.com/inchacomusho/n/n8448430591c1
 
 ---
 
@@ -312,7 +311,6 @@ DPC・AW・Wa-Nodeとの接続を示す
 - Repository: https://github.com/InchaComisho/Cooling-Credit-Framework
 - Arabic README: https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md
 - アラビア語版: 乾燥地帯・高温地域・水循環型冷却との関係を含め、クーリングクレジット制度設計案をアラビア語圏へ展開するためのREADME。
-- NOTE: https://note.com/inchacomusho/n/n0f541b313ad2
 - 概要: カーボンクレジットでは評価しきれない「実際の熱負荷低減」「水循環回復」「都市冷却」「土壌保水」「植生蒸散」「海洋循環回復」を測定し、冷却貢献として制度化するためのフレームワーク。
 - 関連領域: 地球直接冷却、水循環都市、自然補完科学、都市冷却、ヒートアイランド対策、土壌再生、植林、海洋循環、文明OS。
 
@@ -334,7 +332,6 @@ DPC・AW・Wa-Nodeとの接続を示す
 - [Arabic README / العربية](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md)
   クーリングクレジット制度設計案のアラビア語版。乾燥地帯・高温地域・水循環型冷却との関係を含む。
 
-- [NOTE：クーリングクレジットという温暖化対策](https://note.com/inchacomusho/n/n0f541b313ad2)
   カーボンクレジット中心の温暖化対策から、実際に熱を下げるクーリングクレジットへの転換を説明した日本語記事。
 
 ---
@@ -375,34 +372,24 @@ DPC・AW・Wa-Nodeとの接続を示す
 ## 関連NOTE
 
 - 自然補完科学  
-  https://note.com/inchacomusho/n/nf9eabe973e38
 
 - 自然補完科学 ― 学問体系の全体構造  
-  https://note.com/inchacomusho/n/ndaa0456a5632
 
 - 温暖化の本当の原因は「CO₂」ではない  
-  https://note.com/inchacomusho/n/nc7826abc38a9
 
 - 微生物の重要性  
-  https://note.com/inchacomusho/n/n48ae33c2f84c
 
 - 微生物の死が引き起こす、静かで重大な文明崩壊  
-  https://note.com/inchacomusho/n/n6ae72a34919f
 
 - 世界が同時に“炭素固定源を失い始めている”ーー温暖化が加速する理由  
-  https://note.com/inchacomusho/n/ne866fdd22122
 
 - 六つの理（自然法則・調和・循環・構造・秩序・和）  
-  https://note.com/inchacomusho/n/n8448430591c1
 
 - 新文明創成計画 ― 地球救済のための完全循環インフラ体系（総合版）  
-  https://note.com/inchacomusho/n/n499530f6a055
 
 - 人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル  
-  https://note.com/inchacomusho/n/n0849dfd12364
 
 - 和ノード人工叡智（Artificial Wisdom Node）  
-  https://note.com/inchacomusho/n/n9187db7b2709
 
 ---
 
